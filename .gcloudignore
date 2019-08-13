@@ -1,0 +1,7 @@
+venv
+README.md
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+test_data
